@@ -25,10 +25,10 @@ A simple, interactive two-player Tic Tac Toe game built with HTML, CSS, and Java
 
 ## Project Structure
 
-/TicTacToe
-├── index.html
-├── style.css
-└── TicTacToe.js
+/TicTacToe  
+├── index.html  
+├── style.css  
+└── TicTacToe.js  
 
 
 ## Live Demo
